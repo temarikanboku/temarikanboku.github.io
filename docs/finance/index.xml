@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>経済関係 on</title><link>https://temarikanboku.github.io/docs/finance/</link><description>Recent content in 経済関係 on</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 04 May 2023 00:00:00 +0900</lastBuildDate><atom:link href="https://temarikanboku.github.io/docs/finance/index.xml" rel="self" type="application/rss+xml"/><item><title>論文紹介：財政赤字の安定化条件「ドーマー条件」の再考察</title><link>https://temarikanboku.github.io/docs/finance/article_omoshiro_001/</link><pubDate>Thu, 04 May 2023 10:38:02 +0900</pubDate><guid>https://temarikanboku.github.io/docs/finance/article_omoshiro_001/</guid><description>面白い論文を見つけたので紹介したいと思います。
+見つけた論文は財務省財務総合政策研究所が発行しているフィナンシャル・レビュー誌に掲載されています。
+下記に PDF ファイルのリンクを貼っておきます。
+財政赤字の安定化条件「ドーマー条件」の再考察 現在日本は大規模な財政出動によって大量の国債発行を余儀なくされています。 財務省によると 2022 年度末には普通国債残高が 1,029 兆円に上がると見込まれています。
+国債は借金なのでいずれは返済をしないといけません。 1,000 兆円というと途方もない金額ですから、返済するとなると大変なことです。 国債発行をこのまま続けても日本の財政は大丈夫なのでしょうか。
+この疑問に対して本論文は財政赤字の安定化の観点で考察を行っています。 本論文が提唱する財政の安定化条件によれば日本は財政破綻しない状況にあると述べています。 日本の場合、国債発行を続けても国債残高は安定化し、財政は安定化するというわけです。
+これはとても心強く明るい結果です。 日本の国債の債務残高の心配は無くなりました。
+・・・となればよかったのですが、本論文ではマネーサプライの増加を当てにしているので、 マネーサプライによっては財政が安定化するとは言い切れません。
+結論として、本論文は日本が財政破綻しない根拠になるものではありませんでした。 財政の安定化条件について更なる研究が必要になることでしょう。
+本論文は財政の安定化について興味深い要素を含んでいますので、 以下で本論文の主要なポイントについて述べていきたいと思います。
+国債供給と国債需要 #
+本論文は、国債市場の安定化(=財政の安定化)を議論する場合に、 政府の予算制約の式(=国債の供給式)だけでなく国債需要の式を考える必要があると述べています。
+[予算制約の式(=国債供給の式)]
+$$ \Delta B^S_t = (G_t - T_t) + r^B_t \times B_{t-1} - \Delta M_t \tag{1} $$
+[国債需要の式]
+$$ \Delta B^D_t = (b_0 + f_0) + f_1 \left[ r^B_t - \left\{ f^f_t + \frac{e^e_t - e_t}{e_t} \right\} \right] + b_1 (r^B_t - r^I_t) \tag{2} $$</description></item><item><title>日銀の日本国債保有残高</title><link>https://temarikanboku.github.io/docs/finance/data_boj_bond/</link><pubDate>Thu, 04 May 2023 00:00:00 +0900</pubDate><guid>https://temarikanboku.github.io/docs/finance/data_boj_bond/</guid><description/></item></channel></rss>
